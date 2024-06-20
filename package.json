@@ -1,0 +1,26 @@
+{
+  "name": "saha.ai",
+  "version": "1.0.0",
+  "description": "Elderly Medication Reminder App",
+  "main": " ",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/shravan20/saha.ai.git"
+  },
+  "author": "@shravan20",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shravan20/saha.ai/issues"
+  },
+  "homepage": "https://github.com/shravan20/saha.ai#readme",
+  "dependencies": {
+    "appwrite": "^15.0.0",
+    "moment-timezone": "^0.5.45",
+    "node-appwrite": "^13.0.0",
+    "openai": "^4.52.0",
+    "twilio": "^5.2.0"
+  }
+}
