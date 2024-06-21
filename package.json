@@ -22,5 +22,8 @@
     "node-appwrite": "^13.0.0",
     "openai": "^4.52.0",
     "twilio": "^5.2.0"
+  },
+  "devDependencies": {
+    "twilio-run": "^4.0.2"
   }
 }
